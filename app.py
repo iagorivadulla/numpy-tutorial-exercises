@@ -1,4 +1,4 @@
-mport numpy as np
+import numpy as np
 
 vector = np.zeros(10)
 size = vector.itemsize
